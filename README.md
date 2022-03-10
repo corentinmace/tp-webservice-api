@@ -1,4 +1,4 @@
-## Installer le tp : 
+# Installer le tp : 
 
 Changez le `.env` selon votre configuration.
 
@@ -12,7 +12,7 @@ php bin/console doctrine:database:create
 php bin/console doctrine:database:create
 ```
 
-## Lancer le serveur 
+# Lancer le serveur 
 
 Dans un terminal, tapez 
 
